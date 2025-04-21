@@ -4,6 +4,14 @@ This microservice manages user-related operations and authentication logic. It i
 
 ---
 
+## 🔗 Project Links
+
+- 📋 [Trello Board](https://trello.com/invite/b/680296aa17864e87fc6c7fed/ATTI82505e108ae3e7a005ede0081ec437f87CDDDEF1/microservice)
+- 📄 [Project Documentation](https://docs.google.com/document/d/1FER2lpkZJk2eI5tpMnMy8mFhd42g3f4jioasHwZ0klo/edit?usp=sharing)
+
+---
+
+
 ## 🐳 Docker Image
 
 The Dockerfile uses a two-stage build:
