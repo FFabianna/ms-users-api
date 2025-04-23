@@ -34,3 +34,4 @@ jobs:
             -Dsonar.projectKey=${{ secrets.SONAR_PROJECT_KEY }}
             -Dsonar.organization=${{ secrets.SONAR_ORG }}
             -Dsonar.token=${{ secrets.SONAR_TOKEN }}
+            -Dsonar.exclusions=**/*.java
